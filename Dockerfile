@@ -1,4 +1,4 @@
-FROM node:18.18
+FROM node:20.7.0-slim
 
 RUN npm install -g npm@9.1.3
 
